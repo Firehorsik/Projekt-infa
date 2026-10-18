@@ -12,3 +12,4 @@ C:\Users\s37378\Projekt-infa\obj\Debug\net10.0\refint\Projekt-infa.dll
 C:\Users\s37378\Projekt-infa\obj\Debug\net10.0\Projekt-infa.pdb
 C:\Users\s37378\Projekt-infa\obj\Debug\net10.0\Projekt-infa.genruntimeconfig.cache
 C:\Users\s37378\Projekt-infa\obj\Debug\net10.0\ref\Projekt-infa.dll
+C:\Users\s37378\Projekt-infa\obj\Debug\net10.0\Projekt-infa.sourcelink.json

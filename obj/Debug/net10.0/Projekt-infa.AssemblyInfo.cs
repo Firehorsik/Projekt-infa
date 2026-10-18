@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projekt-infa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9279f712b1aededb946f172655aedcd6f83d83d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projekt-infa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projekt-infa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
