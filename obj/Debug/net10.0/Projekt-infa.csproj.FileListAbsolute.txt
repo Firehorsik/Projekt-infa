@@ -1,0 +1,14 @@
+C:\Users\s37378\Projekt-infa\bin\Debug\net10.0\Projekt-infa.exe
+C:\Users\s37378\Projekt-infa\bin\Debug\net10.0\Projekt-infa.deps.json
+C:\Users\s37378\Projekt-infa\bin\Debug\net10.0\Projekt-infa.runtimeconfig.json
+C:\Users\s37378\Projekt-infa\bin\Debug\net10.0\Projekt-infa.dll
+C:\Users\s37378\Projekt-infa\bin\Debug\net10.0\Projekt-infa.pdb
+C:\Users\s37378\Projekt-infa\obj\Debug\net10.0\Projekt-infa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37378\Projekt-infa\obj\Debug\net10.0\Projekt-infa.AssemblyInfoInputs.cache
+C:\Users\s37378\Projekt-infa\obj\Debug\net10.0\Projekt-infa.AssemblyInfo.cs
+C:\Users\s37378\Projekt-infa\obj\Debug\net10.0\Projekt-infa.csproj.CoreCompileInputs.cache
+C:\Users\s37378\Projekt-infa\obj\Debug\net10.0\Projekt-infa.dll
+C:\Users\s37378\Projekt-infa\obj\Debug\net10.0\refint\Projekt-infa.dll
+C:\Users\s37378\Projekt-infa\obj\Debug\net10.0\Projekt-infa.pdb
+C:\Users\s37378\Projekt-infa\obj\Debug\net10.0\Projekt-infa.genruntimeconfig.cache
+C:\Users\s37378\Projekt-infa\obj\Debug\net10.0\ref\Projekt-infa.dll
