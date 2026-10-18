@@ -1,9 +1,9 @@
 ﻿string name;
-int maxHp = 100;
+int maxHp;
 int hp;
 int dmg;
-int premia = 3;
-double mnoznik = 1.6;
+int premia;
+double mnoznik;
 int attacks;
 
 Console.Write("Podaj imię: ");
@@ -11,12 +11,23 @@ name = Console.ReadLine();
 
 Console.Write("Podaj hp: ");
 hp = int.Parse(Console.ReadLine());
+
+Console.Write("Podaj maxhp: ");
+maxHp = int.Parse(Console.ReadLine());
+
 bool alive = hp > 0;
 double php = hp % maxHp;
 bool haveFullHp = hp == maxHp;
 
 Console.Write("Podstawowe obrażenia: ");
 dmg = int.Parse(Console.ReadLine());
+
+Console.Write("Premia: ");
+premia = int.Parse(Console.ReadLine());
+
+Console.Write("Mnoznik: ");
+mnoznik = double.Parse(Console.ReadLine());
+
 int lightAttack = dmg + premia;
 int specialAttack = (int)(dmg * mnoznik);
 
