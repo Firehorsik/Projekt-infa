@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s37378\\Projekt-infa\\Projekt-infa.csproj",
+      "projectUniqueName": "C:\\Users\\s37378\\Desktop\\Zadanie 2\\Projekt-infa\\Projekt-infa.csproj",
       "projectName": "Projekt-infa",
-      "projectPath": "C:\\Users\\s37378\\Projekt-infa\\Projekt-infa.csproj",
+      "projectPath": "C:\\Users\\s37378\\Desktop\\Zadanie 2\\Projekt-infa\\Projekt-infa.csproj",
       "packagesPath": "C:\\Users\\s37378\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s37378\\Projekt-infa\\obj\\",
+      "outputPath": "C:\\Users\\s37378\\Desktop\\Zadanie 2\\Projekt-infa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s37378\\AppData\\Roaming\\NuGet\\NuGet.Config"
